@@ -1,4 +1,4 @@
-## End To End ML Project Fremwork
+## End To End ML Project Framework
 
 ## Created an environment 
 ```
